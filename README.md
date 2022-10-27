@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning :  MERN 
+- 🤔 I’m looking for help with : DSA
+- 📫 How to reach me : alwinj2000@gmail.com
 
 <!--
 **AlwinAlphabot/AlwinAlphabot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
