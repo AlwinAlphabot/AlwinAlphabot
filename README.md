@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 💥
 - 🌱 I’m currently learning :  MERN 
 - 🤔 I’m looking for help with : DSA
 - 📫 How to reach me : alwinj2000@gmail.com
